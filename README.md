@@ -149,7 +149,7 @@ SQL query screenshots:
 
 # Power BI Dashboard
 
-## Page 1 – Overview Dashboard
+## Overview Dashboard
 
 Contains:
 
@@ -168,7 +168,7 @@ Visuals:
 * Runs by City
 * Venue Distribution
 
-Screenshot:
+Example Screenshot:
 
 ![Overview Dashboard](<img width="1918" height="1078" alt="PowerBI Dashboard Sample" src="https://github.com/user-attachments/assets/eebe6b9d-83fe-4a8a-91a9-5f7af6d3401e" />
 )
