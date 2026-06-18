@@ -205,9 +205,10 @@ ipl-analytics-python-sql-powerbi
 │   └── IPL_Analytics.pbix
 │
 ├── images
-│   ├── page1_dashboard.png
+│   ├── powerbi.png
 │   ├── sql_queries.png
 │
+├─datasets from 2008-2026
 └── README.md
 ```
 
